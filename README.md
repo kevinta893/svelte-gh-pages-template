@@ -4,6 +4,8 @@ A basic gh-pages template for Svelte. Preconfigured svelte-kit Skeleton Project 
 
 [Demo Link](https://github.com/kevinta893/svelte-gh-pages-template)
 
+Based on [article](https://javascript.plainenglish.io/sveltekit-github-pages-4fe2844773de)
+
 ## Configuration
 
 1. Set up `gh-pages.js` for your repository. See [gh-pages](https://www.npmjs.com/package/gh-pages)

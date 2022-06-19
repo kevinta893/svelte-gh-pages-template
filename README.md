@@ -2,7 +2,7 @@
 
 A basic gh-pages template for Svelte. Preconfigured svelte-kit Skeleton Project for Typescript.
 
-[Demo Link](https://github.com/kevinta893/svelte-gh-pages-template)
+[Demo Link](https://kevinta893.github.io/svelte-gh-pages-template/)
 
 Based on [article](https://javascript.plainenglish.io/sveltekit-github-pages-4fe2844773de)
 
